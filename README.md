@@ -1,8 +1,10 @@
 #Katty Winne
 
-Olá! Meu nome é Katty Winne! Tudo bem?
+<img src="https://i.imgur.com/Dl55YdT.gif" align="left" width="150" height="150">
 
-Sou concluinte do curso de Data Analytics da Google + CIEE e estou cursando o técnico em Ciência de Dados pela UNIFAVIP Wyden (1º período). Outros cursos que estou fazendo no momento, são o curso do E.B.A. (Estatística do Básico ao Avançado) e o 100 Days of Code: The Complete Python Pro Bootcamp.
+🚀 Olá! Meu nome é Katty Winne! Tudo bem? 
+
+🧠 Sou concluinte do curso de Data Analytics da Google + CIEE e estou cursando o técnico em Ciência de Dados pela UNIFAVIP Wyden (1º período). Outros cursos que estou fazendo no momento, são o curso do E.B.A. (Estatística do Básico ao Avançado) e o 100 Days of Code: The Complete Python Pro Bootcamp.
 
 Adoro aprender! 
 
@@ -23,6 +25,7 @@ Adoro aprender!
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.postgresql.org" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
+<img height="30em" src="https://img.shields.io/badge/Tableau-92bcd1?style=for-the-badge&logo=Tableau&logoColor=22272E" />
      
 </div>
 <br>
