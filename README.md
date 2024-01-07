@@ -9,8 +9,9 @@
 ### Skills
 
 
-![GitHUb](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E34F26)
+
+<img alt="GIT"src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"
 
 
 
@@ -18,7 +19,7 @@
 
 ### Learning
 
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+<img alt="Python"src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 
 
