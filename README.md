@@ -9,6 +9,7 @@ Adoro aprender!
 <img src="https://i.imgur.com/Dl55YdT.gif" align="center" width="150" height="150">
 
 
+
 <div align="center">
   <a href="https://github.com/KattyWinne">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=KattyWinne&theme=radical"/>
