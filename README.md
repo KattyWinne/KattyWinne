@@ -1,7 +1,12 @@
 #Katty Winne
 
- Oh hi! My name is Katty Winne. I'm currently learning how to be a Data Scientist.
+Olá! Meu nome é Katty Winne! Tudo bem?
 
+Sou concluinte do curso de Data Analytics da Google + CIEE e estou cursando o técnico em Ciência de Dados pela UNIFAVIP Wyden (1º período). Outros cursos que estou fazendo no momento, são o curso do E.B.A. (Estatística do Básico ao Avançado) e o 100 Days of Code: The Complete Python Pro Bootcamp.
+
+Adoro aprender! 
+
+ 
 <div align="center">
   <a href="https://github.com/KattyWinne">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=KattyWinne&theme=radical"/>
@@ -13,6 +18,12 @@
 
 ### Skills
 
+<br>
+<div align="center">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+<br>
 
 
 ### Learning
@@ -24,10 +35,6 @@
  <img align="center" alt="VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   </div>
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kattywinne&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
 
