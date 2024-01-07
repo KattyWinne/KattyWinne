@@ -1,12 +1,13 @@
 #Katty Winne
 
-<img src="https://i.imgur.com/Dl55YdT.gif" align="left" width="150" height="150">
-
 🚀 Olá! Meu nome é Katty Winne! Tudo bem? 
 
 🧠 Sou concluinte do curso de Data Analytics da Google + CIEE e estou cursando o técnico em Ciência de Dados pela UNIFAVIP Wyden (1º período). Outros cursos que estou fazendo no momento, são o curso do E.B.A. (Estatística do Básico ao Avançado) e o 100 Days of Code: The Complete Python Pro Bootcamp.
 
 Adoro aprender! 
+
+<img src="https://i.imgur.com/Dl55YdT.gif" align="left" width="150" height="150">
+
 
  
 <div align="center">
