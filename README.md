@@ -1,4 +1,5 @@
 #Katty Winne
+
  Oh hi! My name is Katty Winne. I'm currently learning how to be a Data Scientist.
 
 ### Come with me:
