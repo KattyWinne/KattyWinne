@@ -6,7 +6,7 @@
 
 Adoro aprender! 
 
-<img src="https://i.imgur.com/Dl55YdT.gif" align="left" width="150" height="150">
+<img src="https://i.imgur.com/Dl55YdT.gif" align="center" width="150" height="150">
 
 
  
