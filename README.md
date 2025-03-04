@@ -1,8 +1,8 @@
 #Katty Winne
 
-🚀 Olá! Meu nome é Katty Winne! Tudo bem? 
+🚀 Olá! Meu nome é Katty Winne!  
 
-🧠 Sou concluinte do curso de Data Analytics da Google + CIEE e estou cursando o técnico em Ciência de Dados pela UNIFAVIP Wyden (3º período). Outros cursos que estou fazendo no momento, são os cursos do E.B.A. (Estatística do Básico ao Avançado) e o 100 Days of Code: The Complete Python Pro Bootcamp.
+🧠 Sou estudante de Ciência de Dados na Wyden (3º período). 
 
 Adoro aprender! 
 
